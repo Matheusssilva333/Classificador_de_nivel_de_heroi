@@ -1,14 +1,14 @@
 import java.util.Scanner;
 
-public class Heroi {
+public class script {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner ler = new Scanner(System.in);
 
         System.out.println("Digite seu nome de usuário: ");
-        String nome = scanner.nextLine();
+        String nome = ler.nextLine();
 
         System.out.println("Digite seu XP: ");
-        int xp = scanner.nextInt();
+        int xp = ler.nextInt();
 
         System.out.println("Oi, prazer te conhecer " + nome);
         System.out.println("O seu XP a seguir: " + xp);
