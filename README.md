@@ -1,8 +1,8 @@
-Sistema de Classificação de XP
+# Sistema de Classificação de XP
 
 Este projeto é um simples programa em Java que recebe o nome de usuário e a quantidade de XP (experiência) de um jogador e retorna a classificação do nível com base na quantidade de XP fornecida. O programa utiliza um sistema de classificação com quatro níveis: Ferro, Bronze, Prata e um nível maior que Prata.
 
-Funcionalidade
+# Funcionalidades
 
 O programa realiza as seguintes ações:
 
@@ -53,7 +53,7 @@ Oi, prazer te conhecer João
 O seu XP a seguir: 1500
 Seu nível é igual a: Bronze
 
-Observações
+# Observações
 
 O programa faz uso de uma estrutura condicional if-else para determinar a classificação do usuário com base no XP fornecido.
 
